@@ -18,8 +18,6 @@ A modern, responsive **Restaurent Website** built using **HTML**, **CSS**, and *
 ![Screenshot 2025-05-10 183458](https://github.com/user-attachments/assets/9637f5b2-7947-4a9b-b91b-552bfdb1e377)
 ![Screenshot 2025-05-10 183512](https://github.com/user-attachments/assets/7ab0dfb3-41f6-4603-86d0-f504c03e0c82)
 
-### 📱 Mobile View
-![Mobile Screenshot](screenshots/mobile.png)
 
 ---
 
@@ -35,8 +33,5 @@ A modern, responsive **Restaurent Website** built using **HTML**, **CSS**, and *
 
 - ✅ Mobile-friendly responsive design
 - ✅ Animated UI elements
-- ✅ About, Projects, and Contact sections
-- ✅ Downloadable resume (if included)
-- ✅ Dark/light mode *(if applicable)*
-
+  
 ---
