@@ -26,6 +26,7 @@ A modern, responsive **Restaurent Website** built using **HTML**, **CSS**, and *
 - HTML5
 - CSS3 (Responsive design)
 - JavaScript (Vanilla)
+- SCSS
 
 ---
 
