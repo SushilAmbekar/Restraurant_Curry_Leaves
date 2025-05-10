@@ -6,7 +6,7 @@ A modern, responsive **Restaurent Website** built using **HTML**, **CSS**, and *
 
 ## 🔗 Live Demo
 
-🚀 **[Click here to view the live site]([https://SushilAmbekar.github.io/portfolio](http://127.0.0.1:5500/index.html)/)**  
+🚀 **[Click here to view the live site](http://127.0.0.1:5500/index.html)/)**  
 
 ---
 
